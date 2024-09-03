@@ -1,0 +1,23 @@
+.app{
+  padding: 0 4rem 4 rem;
+  margin: 2rem;
+  text-align: center;
+}
+
+.games{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4rem ;
+  margin-top: 2rem;
+
+}
+
+.itens{
+  margin: 1rem;
+}
+
+img{
+    height: 30rem;
+  width: 20rem;
+  object-fit: cover;
+}
